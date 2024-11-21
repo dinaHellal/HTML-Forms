@@ -1,0 +1,38 @@
+/* *{
+    margin: 5px;
+    padding: 2px;
+    box-sizing: border-box;
+}
+h2{
+    font-size: 25px;
+    margin: 5px;
+    padding: 10px;
+}
+
+input{
+    position: absolute;
+    left: 150px;
+}
+h3{
+    position: absolute;
+    top: 180px;
+}
+.a{
+position: absolute;
+top: 230px;
+}
+.b{
+    position: absolute;
+    top: 430px;
+}
+h4{
+    position: absolute;
+    top: 380px;
+    font-size: 20px;
+}
+.sub{
+    position: absolute;
+    bottom: 0px;
+    left: 50px;
+    width: 70px;
+} */
